@@ -1,0 +1,14 @@
+{
+  "name": "repo",
+  "version": "1.0.0",
+  "description": "Speak_ Week 3 Jest Walkthrough",
+  "main": "index.js",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC"
+}
